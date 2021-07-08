@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bootstrap": "^5.0.2",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.14",
+    "next": "10.0.1",
+    "pure-react-carousel": "^1.27.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-elastic-carousel": "^0.11.5",
+    "react-owl-carousel": "^2.3.3",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0"
+  }
+}

@@ -1,0 +1,85 @@
+.about{
+    text-align: center;
+    padding: 20px;
+    max-width: 1244px;
+    width:100%;
+    height: 100%;
+    margin: 0 auto;
+
+}
+.about>p{
+    margin-top: 35px;
+    font-size: 25px;
+}
+.team{
+    max-width: 1244px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    
+    padding: 20px;
+}
+.team>h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.teamrow{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:100%;
+}
+.team-member {
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 1px 1px 5px rgb(0 0 0 / 50%);
+}
+.team-member-img1 {
+    background: url(../public/WhatsApp\ Image\ 2021-07-09\ at\ 12.30.19\ PM.jpeg) no-repeat center;
+    background-size: contain;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.team-member-img2 {
+    background: url(../public/IMG_20191207_080340_381.jpg) no-repeat center;
+    background-size: contain;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.team-social{
+justify-content: space-evenly;
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.fb-team {
+    background: url(../public/facebook.png) no-repeat center;
+    background-size: contain;
+    width: 30px;
+    height: 30px;
+}
+.linkin-team{
+    
+    background: url(../public/linkedin.png) no-repeat center;
+    background-size: contain;
+    width: 30px;
+    height: 30px;
+
+}
+.mail-team {
+    background: url(../public/gmail.png) no-repeat center;
+    background-size: contain;
+    width: 30px;
+    height: 30px;
+}
