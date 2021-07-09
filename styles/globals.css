@@ -50,6 +50,19 @@ img{
   border-radius: 5px;
   
 }
+.int2{
+width: 100px;
+margin: 10px;
+height: 25px;
+border-radius: 5px;
+}
+.int3 {
+  display: flex;
+  width: 330px;
+  height: 158px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
 .text-danger{
   color:red;
   font-size: 20px;
@@ -91,13 +104,14 @@ margin-left: 10px
 @import url("./sigin.css");
 @import url("./register.css");
 @import url("./about.css");
+@import url("./contact.css");
 
 
 .header{
   height: 60px;
   display: flex;
   align-items: center;
-  
+  cursor: pointer;
   background: linear-gradient(#020024, #1D428A); 
  color:white;
   position: sticky;

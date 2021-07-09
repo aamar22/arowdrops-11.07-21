@@ -50,6 +50,13 @@ function about() {
                 
             </div>
         </div>
+        <div className="sec3">
+            <h1>How we Work</h1>
+            <p>We strive to have a positive impact on customers, employees, 
+                small businesses, the economy, and communities. Amazonians are smart, passionate builders with different backgrounds and goals, who share a common desire to always be learning and inventing on behalf of our customers.Although considered exotic material production in other companies, Tini Industry is working on a daily basis these types of products for the past 3 years. Our skilled technicians are familiar and comfortable with the complexities of machining exotic materials. Tini Industry team takes the mechanical properties of each material from standard to exotic prior to operations to avoid complications and to produce accurate results. For this, we have a technocratic tycoon to organize the domestic market. We commonly work with a wide range of materials and high-temp alloys including all grades of carbon, alloy, and stainless steel and the exotic metals. Our mission is to make sure customer fulfillment and confidence at all times. Our service and consistency have enabled to take pleasure in long-term and mutually beneficial relationships with our clientele. We are maintaining a constant relationship in Technical, Quality, and Production, etc, hence our clients know, our work will be done right time with the right quality.
+
+            </p>
+        </div>
       </div>
     )
 }

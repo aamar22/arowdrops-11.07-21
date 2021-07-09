@@ -40,9 +40,11 @@ function Header() {
             <div className='header_option'>
                <span className='header_optionLineOne'>Products </span>              
             </div>
+            <Link href='/contact'>
          <div className='header_option'>  
             <span className='header_optionLineOne'>Contact Us</span>
             </div> 
+            </Link>
             <Link href ="/checkout">
             <div className="header_optionBasket">
                
