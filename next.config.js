@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "https://arowdrops.in",
+        "BASE_URL": "https://www.arowdrops.in",
         "MONGODB_URL": "mongodb://localhost:27017/ero",
         "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET",
         "REFRESH_TOKEN_SECRET": "YOUR_REFRESH_TOKEN_SECRET",
